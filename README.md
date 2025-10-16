@@ -69,7 +69,7 @@ LONE FISHER GAMES SHALL NOT, UNDER ANY CIRCUMSTANCES, LEGAL THEORY, STRICT LIABI
 
 9. TERMS OF USE UPDATES
 
-You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise these Terms of Use or Privacy Policy at any time, by publishing updated version to a website located at [https://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/). The updated Terms of Use or Privacy Policy come into force immediately upon being published on [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/). You are advised to check the website from time to time for notices concerning such updates.
+You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise these Terms of Use or Privacy Policy at any time, by publishing updated version to a website located at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/). The updated Terms of Use or Privacy Policy come into force immediately upon being published on [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/). You are advised to check the website from time to time for notices concerning such updates.
 
 Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.
 
@@ -81,7 +81,7 @@ In case of any issues related to these Terms of Use, please use the e-mail addre
 
 This Privacy Policy is to explain how Lone Fisher Games (hereinafter "Lone Fisher Games" or “we”) collects, uses, and shares your personal information while you play the games provided by Lone Fisher Games (“Services”).
 
-You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise this Privacy Policy at any time, by publishing an updated version to the website located at [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/) . The updated Terms of Use or Privacy Policy come into force immediately upon being published on [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/) . You are advised to check the website from time to time for notices concerning such updates.
+You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise this Privacy Policy at any time, by publishing an updated version to the website located at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) . The updated Terms of Use or Privacy Policy come into force immediately upon being published on [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) . You are advised to check the website from time to time for notices concerning such updates.
 
 By using any Lone Fisher Games Services you agree to the collection and use of your personal information in accordance with this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use the Services.
 
@@ -135,7 +135,7 @@ We’re committed to keeping your information secure by any means available, there
 
 4. How you can access, update or manage your personal information
 
-In case your information is incomplete, outdated, incorrect or no longer relevant for the purpose of processing, you can send us your request at [lonefishergames@gmail.com](mailto:lonefishergames@gmail.com) This is email may also be used in case you need to file a complaint or have any questions regarding your personal data use or about this Privacy Policy.
+In case your information is incomplete, outdated, incorrect or no longer relevant for the purpose of processing, you can send us your request at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) This is email may also be used in case you need to file a complaint or have any questions regarding your personal data use or about this Privacy Policy.
 
 5. INFORMATION FOR EU CITIZENS:
 
