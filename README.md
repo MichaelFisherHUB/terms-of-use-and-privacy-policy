@@ -1,7 +1,7 @@
 
 # TERMS OF USE
 
-The terms of this agreement (“Terms of Use”) govern the relationship between you and Lone Fisher Games regarding your use of Lone Fisher Games’ games, mobile applications, in-game chats and other related services (“Services”) provided by Lone Fisher Games. Use of the Service is also governed by Lone Fisher Games’ Privacy Policy, which is incorporated herein by reference.
+The terms of this agreement ("Terms of Use") govern the relationship between you and Lone Fisher Games regarding your use of Lone Fisher Games' games, mobile applications, in-game chats and other related services ("Services") provided by Lone Fisher Games. Use of the Service is also governed by Lone Fisher Games' Privacy Policy, which is incorporated herein by reference.
 
 BY DOWNLOADING, INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICES PROVIDED BY LONE FISHER GAMES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF USE AND LONE FISHER GAMES PRIVACY POLICY; AND REPRESENT THAT YOUR AGE IS SUFFICIENT FOR USE OF THE SERVICE UNDER THE APPLICABLE LAWS AND/OR YOUR LEGAL GUARDIAN HAS REVIEWED AND AGREED TO THESE TERMS OF USE. IF YOU DO NOT WANT TO BE BOUND BY THESE TERMS OF USE OR DISAGREE WITH THEM, PLEASE DO NOT DOWNLOAD, INSTALL, USE OR OTHERWISE ACCESS THE SERVICES. USE OF THE SERVICES WITHOUT ACCEPTANCE OF THESE TERMS OF USE IS STRICTLY PROHIBITED.
 
@@ -13,11 +13,11 @@ You may use your account only for your personal, non-commercial purposes. You sh
 
 Lone Fisher Games owns & reserves all rights, title and interest in and to the Service, and all data and content included therein, without limitation any games, titles, including any game content such as computer code, objects, characters, dialogues, concepts, artwork, animations, catch phrases, sounds, musical compositions, audio-visual effects, methods of operation, documentation, in-game chat transcripts, character information, recordings of games played using Lone Fisher Games game client and server software.
 
-Lone Fisher Games owns and has rights to use any content that appears in the Services. You agree that you have no ownership, right or title in or to any content that appears in the Service, including without limitation (a) “Virtual Goods” or (b) “Virtual Currency” appearing or originating in any Lone Fisher Games Services, whether earned in a Service or purchased from Lone Fisher Games, or any other attributes associated with an Account or stored on the Service. You agree & acknowledge that you have no ownership or other property interest in the Account, and you further agree and acknowledge that all rights to the account are and shall forever be owned by Lone Fisher Games.
+Lone Fisher Games owns and has rights to use any content that appears in the Services. You agree that you have no ownership, right or title in or to any content that appears in the Service, including without limitation (a) "Virtual Goods" or (b) "Virtual Currency" appearing or originating in any Lone Fisher Games Services, whether earned in a Service or purchased from Lone Fisher Games, or any other attributes associated with an Account or stored on the Service. You agree & acknowledge that you have no ownership or other property interest in the Account, and you further agree and acknowledge that all rights to the account are and shall forever be owned by Lone Fisher Games.
 
 Lone Fisher Games hereby grants you a non-exclusive, non-transferable, non-sublicensable, revocable limited license to access our Services for your non-commercial entertainment use only, conditioned upon your compliance with these Terms or Use.
 
-Unless expressly granted a license by Lone Fisher Games in a signed writing, you may not reproduce, distribute, copy, exchange, modify, decompile, translate, lease services or any works from Lone Fisher Games’ intellectual property.
+Unless expressly granted a license by Lone Fisher Games in a signed writing, you may not reproduce, distribute, copy, exchange, modify, decompile, translate, lease services or any works from Lone Fisher Games' intellectual property.
 
 Any violation of the ownership or use not in accordance with these Terms of Use is expressly prohibited and may result in severe civil or criminal penalties.
 
@@ -25,10 +25,10 @@ Any violation of the ownership or use not in accordance with these Terms of Use 
 
 You agree that while using any of Lone Fisher Games Services you will not, under any circumstances:
 
--   Initiate, assist, take part (directly or indirectly) in any type of attack, including any type of hacker attack, distribution of any viruses, worms, adware or any deleterious/malicious code upon the Services, or other attempts to disrupt the Services or to disturb any other person’s use of the Services.
+-   Initiate, assist, take part (directly or indirectly) in any type of attack, including any type of hacker attack, distribution of any viruses, worms, adware or any deleterious/malicious code upon the Services, or other attempts to disrupt the Services or to disturb any other person's use of the Services.
 -   Harass, bully, threaten any other users, post or submit any abusive, threatening, bullying, obscene, harassing, offensive, pornographic or illegal content, or any other content that infringes or violates the rights of other users.
 -   Exploit any errors or bugs found in the provided Services and/or distribute them, nor promote the use of them to the other users in any way or form.
--   Attempt to access another user’s Account, collect or harvest personal information from other users, nor attempt to obtain another user’s Login information.
+-   Attempt to access another user's Account, collect or harvest personal information from other users, nor attempt to obtain another user's Login information.
 
 -   You will not attempt to gain unauthorized access to the Service, to Accounts registered to others, or to networks from which portions of the Service are provided, including by circumventing or bypassing robot exclusion headers or security mechanisms for the Service;
 
@@ -37,19 +37,19 @@ You agree that while using any of Lone Fisher Games Services you will not, under
 
 4. Purchases
 
-Within the Service you may purchase, with "real world" money, a limited, personal, non-transferable, non-sublicensable, revocable license to use “Virtual goods” such as: (a)"virtual currency"; (b) "virtual in-game items"; (c) other goods or services.
+Within the Service you may purchase, with "real world" money, a limited, personal, non-transferable, non-sublicensable, revocable license to use "Virtual goods" such as: (a)"virtual currency"; (b) "virtual in-game items"; (c) other goods or services.
 
-You are only allowed to purchase virtual goods from us or our authorised partners through the Service, all other ways are prohibited unless stated otherwise.
+You are only allowed to purchase virtual goods from us or our authorized partners through the Service, all other ways are prohibited unless stated otherwise.
 
-All Virtual Goods transactions are handled by third-party e-commerce payment providers. By purchasing in-game Virtual Goods, you agree to the third-party payment providers’ Terms of Use.
+All Virtual Goods transactions are handled by third-party e-commerce payment providers. By purchasing in-game Virtual Goods, you agree to the third-party payment providers' Terms of Use.
 
-You agree you do not have ownership or other property interest in any of the Virtual Goods you purchase the license for. Virtual Goods do not have monetary value and cannot be redeemed for any real world currency. You agree that all prices and sales of Virtual Goods are final and you can’t obtain any refunds for purchasing the license to use them except as expressly authorized by Lone Fisher Games.
+You agree you do not have ownership or other property interest in any of the Virtual Goods you purchase the license for. Virtual Goods do not have monetary value and cannot be redeemed for any real world currency. You agree that all prices and sales of Virtual Goods are final and you can't obtain any refunds for purchasing the license to use them except as expressly authorized by Lone Fisher Games.
 
 Lone Fisher Games reserves the right to change or limit the price, availability, or order quantity of any Virtual Goods as well as regulate, manage, modify or eliminate Virtual Goods with or without prior notification. Lone Fisher Games shall have no liability to you or any third party in the event that Lone Fisher Games exercises any such rights.
 
 5. User Content
 
-Lone Fisher Games Services may include opportunities to participate in group chats, surveys, message blogs, public or close tests or any other opportunities to create, submit and publish writings, graphical or other material (“User Content”). You grant, represent, warrant and agree that any of such transmission or submission is (a) accurate and not confidential or misleading; (b) not in violation of any laws, contractual restrictions or other third party rights, and that you have permission from any third party whose personal information or intellectual property is comprised in the User Content; (c) free of viruses, adware, spyware, worms or other malicious code; and (d) you acknowledge and agree that any of your personal information within such content will at all times be processed by Lone Fisher Games in accordance with these Terms of Use.
+Lone Fisher Games Services may include opportunities to participate in group chats, surveys, message blogs, public or close tests or any other opportunities to create, submit and publish writings, graphical or other material ("User Content"). You grant, represent, warrant and agree that any of such transmission or submission is (a) accurate and not confidential or misleading; (b) not in violation of any laws, contractual restrictions or other third party rights, and that you have permission from any third party whose personal information or intellectual property is comprised in the User Content; (c) free of viruses, adware, spyware, worms or other malicious code; and (d) you acknowledge and agree that any of your personal information within such content will at all times be processed by Lone Fisher Games in accordance with these Terms of Use.
 
 You understand and agree that by using the Services you may be exposed to User Content and actions from other users that are offensive, indecent, explicit or do not meet your expectations in any other way. Lone Fisher Games reserves the right, in its sole discretion, to monitor, edit, refuse to post or remove any User Content. You acknowledge and agree that Lone Fisher Games nonetheless assumes no responsibility and no obligation to modify any inappropriate User Content and that Lone Fisher Games shall have no liability to you and or any third-party in any way for User Content, or for any damage or loss therefrom.
 
@@ -59,17 +59,17 @@ Lone Fisher Games reserves the rights to modify, change, update any parts of the
 
 7. Termination
 
-You understand and agree that if, under any circumstances, any of these terms are violated, regardless of whether the violation was accidental or intentional, these Terms of Use will be automatically terminated. Upon termination you must immediately stop any use of the Services. You acknowledge and agree that Lone Fisher Games has the right to terminate or disable your Account at any time for any reason or no reason with or without prior notification. You agree that your obligations stated in the following sections: “2. Ownership & License”,“5. User Content”, “3. License Limitations” survive any termination.
+You understand and agree that if, under any circumstances, any of these terms are violated, regardless of whether the violation was accidental or intentional, these Terms of Use will be automatically terminated. Upon termination you must immediately stop any use of the Services. You acknowledge and agree that Lone Fisher Games has the right to terminate or disable your Account at any time for any reason or no reason with or without prior notification. You agree that your obligations stated in the following sections: "2. Ownership & License","5. User Content", "3. License Limitations" survive any termination.
 
 8. WARRANTIES & LIABILITY LIMITATION
 
-WITHOUT LIMITING ITS LIABILITY LONE FISHER GAMES WAIVES ANY WARRANTY AND/OR GUARANTEE OF ANY KIND, EXPRESS OR IMPLIED, THAT PROVIDED SERVICES ARE SUITABLE FOR YOUR PURPOSES, UNINTERRUPTED, SECURE, ERROR-FREE, VIRUS-FREE, FUNCTION PROPERLY OR DO NOT CONTAIN ANY HARMFUL COMPONENTS. ANY LONE FISHER GAMES SERVICES ARE PROVIDED “AS IS”.
+WITHOUT LIMITING ITS LIABILITY LONE FISHER GAMES WAIVES ANY WARRANTY AND/OR GUARANTEE OF ANY KIND, EXPRESS OR IMPLIED, THAT PROVIDED SERVICES ARE SUITABLE FOR YOUR PURPOSES, UNINTERRUPTED, SECURE, ERROR-FREE, VIRUS-FREE, FUNCTION PROPERLY OR DO NOT CONTAIN ANY HARMFUL COMPONENTS. ANY LONE FISHER GAMES SERVICES ARE PROVIDED "AS IS".
 
 LONE FISHER GAMES SHALL NOT, UNDER ANY CIRCUMSTANCES, LEGAL THEORY, STRICT LIABILITY OR OTHERWISE, BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT OR DIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES OF ANY KIND (INCLUDING BUT NOT LIMITED TO, ACTUAL LOSS, PROFIT LOSS, DATA LOSS, BUSINESS LOSS) REGARDLESS OF WHETHER LONE FISHER GAMES HAS BEEN ADVISED OF SUCH DAMAGE OR NOT.
 
 9. TERMS OF USE UPDATES
 
-You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise these Terms of Use or Privacy Policy at any time, by publishing updated version to a website located at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/). The updated Terms of Use or Privacy Policy come into force immediately upon being published on [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/). You are advised to check the website from time to time for notices concerning such updates.
+You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise these Terms of Use or Privacy Policy at any time, by publishing updated version to a website located at [https://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/). The updated Terms of Use or Privacy Policy come into force immediately upon being published on [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/). You are advised to check the website from time to time for notices concerning such updates.
 
 Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.
 
@@ -79,9 +79,9 @@ In case of any issues related to these Terms of Use, please use the e-mail addre
 
 # PRIVACY POLICY
 
-This Privacy Policy is to explain how Lone Fisher Games (hereinafter "Lone Fisher Games" or “we”) collects, uses, and shares your personal information while you play the games provided by Lone Fisher Games (“Services”).
+This Privacy Policy is to explain how Lone Fisher Games (hereinafter "Lone Fisher Games" or "we") collects, uses, and shares your personal information while you play the games provided by Lone Fisher Games ("Services").
 
-You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise this Privacy Policy at any time, by publishing an updated version to the website located at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) . The updated Terms of Use or Privacy Policy come into force immediately upon being published on [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) . You are advised to check the website from time to time for notices concerning such updates.
+You acknowledge and agree that Lone Fisher Games reserves the right to update, modify or revise this Privacy Policy at any time, by publishing an updated version to the website located at [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/) . The updated Terms of Use or Privacy Policy come into force immediately upon being published on [http://lonefishergames.policy.github.io/](http://lonefishergames.policy.github.io/) . You are advised to check the website from time to time for notices concerning such updates.
 
 By using any Lone Fisher Games Services you agree to the collection and use of your personal information in accordance with this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use the Services.
 
@@ -131,11 +131,11 @@ Please note that Lone Fisher Games, in particular, uses the services provided by
 
 3. How we keep the information safe & secure
 
-We’re committed to keeping your information secure by any means available, therefore, we’ve taken appropriate steps & measures according to industry standards, including, where suitable, encryption, to ensure that your personal data & transactions are protected from unauthorized access, misuse or modification.
+We're committed to keeping your information secure by any means available, therefore, we've taken appropriate steps & measures according to industry standards, including, where suitable, encryption, to ensure that your personal data & transactions are protected from unauthorized access, misuse or modification.
 
 4. How you can access, update or manage your personal information
 
-In case your information is incomplete, outdated, incorrect or no longer relevant for the purpose of processing, you can send us your request at [https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/](https://michaelfisherhub.github.io/terms-of-use-and-privacy-policy/) This is email may also be used in case you need to file a complaint or have any questions regarding your personal data use or about this Privacy Policy.
+In case your information is incomplete, outdated, incorrect or no longer relevant for the purpose of processing, you can send us your request at [lonefishergames@gmail.com](mailto:lonefishergames@gmail.com) This is email may also be used in case you need to file a complaint or have any questions regarding your personal data use or about this Privacy Policy.
 
 5. INFORMATION FOR EU CITIZENS:
 
